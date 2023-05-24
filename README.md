@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About me
+
+- 喜欢编程，喜欢开源
+- 我的网站：heybugs.github.io
+- iOS App: 规划中
+
+## Dream to be
+
+- 架构师
+- 独立开发者
+
+## Knowledge Graph 
+
+![heybugs's github stats](https://github-readme-stats.vercel.app/api?username=heybugs&show_icons=true&&count_private=true)
