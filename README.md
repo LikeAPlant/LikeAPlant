@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 喜欢编程
 - 尝试并在努力坚持科技极简主义
-- ![我的网站](https://likeaplant.github.io)
+- [我的网站](https://likeaplant.github.io)
 
 ## Dream to be
 
