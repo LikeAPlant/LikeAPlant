@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 ## About me
 
-- 喜欢编程，喜欢开源
-- 我的网站：likeaplant.github.io
-- iOS App: 规划中
+- 喜欢编程
+- 尝试并在努力坚持科技极简主义
+- ![我的网站] (https://likeaplant.github.io)
 
 ## Dream to be
 
