@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## About me
 
 - 喜欢编程，喜欢开源
-- 我的网站：heybugs.github.io
+- 我的网站：likeaplant.github.io
 - iOS App: 规划中
 
 ## Dream to be
