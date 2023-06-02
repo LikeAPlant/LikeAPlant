@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 ## Knowledge Graph 
 
-![heybugs's github stats](https://github-readme-stats.vercel.app/api?username=heybugs&show_icons=true&&count_private=true)
+![heybugs's github stats](https://github-readme-stats.vercel.app/api?username=likeaplant&show_icons=true&&count_private=true)
